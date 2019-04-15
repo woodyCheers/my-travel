@@ -1,0 +1,16 @@
+
+h2 {
+    margin-left: 80px;
+    /*transform: rotate(-45deg);*/
+    text-shadow: 0 0 5px #01579b;
+}
+
+.addr {
+    width:300px;
+}
+.addr img{
+    width: 200px;
+}
+.addr .description{
+    text-indent: 2em;
+}
