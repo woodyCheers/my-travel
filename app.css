@@ -14,6 +14,7 @@ h2 {
 .addr .description{
     text-indent: 2em;
 }
+
 footer{
 	font-size: 13px;
 	color: #666;
@@ -22,4 +23,15 @@ footer{
 }
 footer img{
 	border-radius: 50%;
+
+
+.sidebar{
+	float:left;
+	width: 120px;
+	background: #eee;
+}
+.container{
+	margin-left: 122px;
+	border-left:1px solid #66f;
+
 }
